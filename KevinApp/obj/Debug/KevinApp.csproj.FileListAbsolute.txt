@@ -1,0 +1,13 @@
+D:\KevinApp\KevinApp\bin\Debug\KevinApp.exe.config
+D:\KevinApp\KevinApp\bin\Debug\KevinApp.exe
+D:\KevinApp\KevinApp\bin\Debug\KevinApp.pdb
+D:\KevinApp\KevinApp\obj\Debug\KevinApp.csprojAssemblyReference.cache
+D:\KevinApp\KevinApp\obj\Debug\KevinApp.Ejemplo.resources
+D:\KevinApp\KevinApp\obj\Debug\KevinApp.Properties.Resources.resources
+D:\KevinApp\KevinApp\obj\Debug\KevinApp.csproj.GenerateResource.cache
+D:\KevinApp\KevinApp\obj\Debug\KevinApp.csproj.CoreCompileInputs.cache
+D:\KevinApp\KevinApp\obj\Debug\KevinApp.exe
+D:\KevinApp\KevinApp\obj\Debug\KevinApp.pdb
+D:\KevinApp\KevinApp\obj\Debug\KevinApp.Menu.resources
+D:\KevinApp\KevinApp\obj\Debug\KevinApp.OpcionDatagridView.resources
+D:\KevinApp\KevinApp\obj\Debug\KevinApp.OpcionGroupBox.resources
